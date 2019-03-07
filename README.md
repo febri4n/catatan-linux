@@ -24,3 +24,6 @@
 ### Linux lokal
 * https://dracos-linux.org
 * https://codernate.org
+* https://www.blankonlinux.or.id
+* https://tealinuxos.org
+* http://www.xentaos.com
