@@ -20,3 +20,7 @@
 
 ### Tempat bagi-bagi config
 * http://dotshare.it
+
+### Linux lokal
+* https://dracos-linux.org
+* https://codernate.org
