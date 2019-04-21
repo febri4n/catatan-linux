@@ -18,6 +18,11 @@
 * https://www.facebook.com/groups/linuxart/
 * https://t.me/dotfiles_id_channel
 
+### Download wallpaper keren
+* https://alpha.wallhaven.cc
+* https://wall.alphacoders.com
+* http://pixabay.com
+
 ### Tempat bagi-bagi config
 * http://dotshare.it
 
