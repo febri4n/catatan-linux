@@ -34,3 +34,6 @@
 * https://www.blankonlinux.or.id
 * https://tealinuxos.org
 * http://www.xentaos.com
+
+## Pallete untuk terminal
+* https://mayccoll.github.io/Gogh/
